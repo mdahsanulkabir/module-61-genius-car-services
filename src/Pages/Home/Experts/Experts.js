@@ -19,7 +19,7 @@ const experts = [
 
 const Experts = () => {
     return (
-        <div calssname='container'>
+        <div calssname='container' id='experts'>
             <h2 className='text-primary text-center mt-5'>Our Experts</h2>
             <div className="row justify-content-evenly">
                 {
